@@ -1,0 +1,2560 @@
+{
+  "items": [
+    {
+      "id": 3176861433,
+      "title": "Felpa grigia",
+      "price": "5.0",
+      "is_visible": 1,
+      "discount": null,
+      "currency": "EUR",
+      "brand_title": "GAP",
+      "is_for_swap": false,
+      "user": {
+        "id": 80929732,
+        "login": "liliana-giorgia",
+        "business": false,
+        "profile_url": "https://www.vinted.fr/member/80929732-liliana-giorgia",
+        "photo": null
+      },
+      "url": "https://www.vinted.fr/hommes/vetements/sweats-and-pulls/pulls-a-capuche-avec-zip/3176861433-felpa-grigia",
+      "promoted": false,
+      "photo": {
+        "id": 12777508718,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#887965",
+        "dominant_color_opaque": "#DBD7D1",
+        "url": "https://images1.vinted.net/t/01_0212a_qV8SFPLyAExeu1JKRQ5Jznmq/f800/1687775252.jpeg?s=ccf0744e728708d24e6ae8d0e286daea7221bd1a",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/01_0212a_qV8SFPLyAExeu1JKRQ5Jznmq/70x100/1687775252.jpeg?s=e73d4c2ca264c7dda33c7081835a969e07d76cbe",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/01_0212a_qV8SFPLyAExeu1JKRQ5Jznmq/150x210/1687775252.jpeg?s=f6c14f405a7d546dabe7cb3352e1cefa23cebbc9",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/01_0212a_qV8SFPLyAExeu1JKRQ5Jznmq/310x430/1687775252.jpeg?s=f3e4b2eb00c5808c5b6a79f27260df4f7d018bae",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/01_0212a_qV8SFPLyAExeu1JKRQ5Jznmq/f800/1687775252.jpeg?s=ccf0744e728708d24e6ae8d0e286daea7221bd1a",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/01_0212a_qV8SFPLyAExeu1JKRQ5Jznmq/f800/1687775252.jpeg?s=ccf0744e728708d24e6ae8d0e286daea7221bd1a",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/01_0212a_qV8SFPLyAExeu1JKRQ5Jznmq/f800/1687775252.jpeg?s=ccf0744e728708d24e6ae8d0e286daea7221bd1a",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "01_0212a_qV8SFPLyAExeu1JKRQ5Jznmq",
+          "timestamp": 1687775252,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/01_0212a_qV8SFPLyAExeu1JKRQ5Jznmq/1687775252.jpeg?s=55c410ed8cdbaaa4dc9a31ab245191f212de64be",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 0,
+      "is_favourite": false,
+      "favourite_group_id": null,
+      "badge": null,
+      "conversion": null,
+      "service_fee": "0.95",
+      "total_item_price": "5.95",
+      "view_count": 0,
+      "size_title": "XXL",
+      "content_source": "catalog",
+      "search_tracking_params": { "score": 0, "matched_queries": null }
+    },
+    {
+      "id": 3176855795,
+      "title": "Felpa grigia ",
+      "price": "5.0",
+      "is_visible": 1,
+      "discount": null,
+      "currency": "EUR",
+      "brand_title": "GAP",
+      "is_for_swap": false,
+      "user": {
+        "id": 80929732,
+        "login": "liliana-giorgia",
+        "business": false,
+        "profile_url": "https://www.vinted.fr/member/80929732-liliana-giorgia",
+        "photo": null
+      },
+      "url": "https://www.vinted.fr/hommes/vetements/sweats-and-pulls/pulls-a-capuche-avec-zip/3176855795-felpa-grigia",
+      "promoted": false,
+      "photo": {
+        "id": 12777467228,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#443E3E",
+        "dominant_color_opaque": "#C7C5C5",
+        "url": "https://images1.vinted.net/t/01_00e89_9CJPS4MNsLA9aLTDdanYhULP/f800/1687775163.jpeg?s=ff826d9769084c06042757a8e62f52cb32528b35",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/01_00e89_9CJPS4MNsLA9aLTDdanYhULP/70x100/1687775163.jpeg?s=860ccbe7191cc7990f90bcc3c99bc07f5da41b04",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/01_00e89_9CJPS4MNsLA9aLTDdanYhULP/150x210/1687775163.jpeg?s=20751bdaa8ae054ca2f5aeac8b72c83f91382f0c",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/01_00e89_9CJPS4MNsLA9aLTDdanYhULP/310x430/1687775163.jpeg?s=2f5bc5c2f8d0e6de82de27dd239d0e3dca2e3382",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/01_00e89_9CJPS4MNsLA9aLTDdanYhULP/f800/1687775163.jpeg?s=ff826d9769084c06042757a8e62f52cb32528b35",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/01_00e89_9CJPS4MNsLA9aLTDdanYhULP/f800/1687775163.jpeg?s=ff826d9769084c06042757a8e62f52cb32528b35",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/01_00e89_9CJPS4MNsLA9aLTDdanYhULP/f800/1687775163.jpeg?s=ff826d9769084c06042757a8e62f52cb32528b35",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "01_00e89_9CJPS4MNsLA9aLTDdanYhULP",
+          "timestamp": 1687775163,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/01_00e89_9CJPS4MNsLA9aLTDdanYhULP/1687775163.jpeg?s=2d3789f01bade1df1653306f3cdd295ae4b78525",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 0,
+      "is_favourite": false,
+      "favourite_group_id": null,
+      "badge": null,
+      "conversion": null,
+      "service_fee": "0.95",
+      "total_item_price": "5.95",
+      "view_count": 0,
+      "size_title": "XXL",
+      "content_source": "catalog",
+      "search_tracking_params": { "score": 0, "matched_queries": null }
+    },
+    {
+      "id": 3176176268,
+      "title": "felpa gap taglia S",
+      "price": "8.0",
+      "is_visible": 1,
+      "discount": null,
+      "currency": "EUR",
+      "brand_title": "GAP",
+      "is_for_swap": false,
+      "user": {
+        "id": 125531932,
+        "login": "ambra.cerovaz",
+        "business": false,
+        "profile_url": "https://www.vinted.fr/member/125531932-ambracerovaz",
+        "photo": {
+          "id": 143048780,
+          "width": 431,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_022e5_PXdxDuu5ZqGhGHfBYu4eyBQa/f800/1685273848.jpeg?s=918daef69bfe17bd492997fc893930aa358c26a9",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_022e5_PXdxDuu5ZqGhGHfBYu4eyBQa/310x310/1685273848.jpeg?s=5cbc5e8d5f519e7e4a95d6c06255ae50d8314239",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_022e5_PXdxDuu5ZqGhGHfBYu4eyBQa/150x150/1685273848.jpeg?s=dc1b9e1cf3ce6a92c9bb3ee07438f0d3ac24ae3b",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_022e5_PXdxDuu5ZqGhGHfBYu4eyBQa/100x100/1685273848.jpeg?s=aacc2263710c66b2433d3f3228cb389d50897178",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_022e5_PXdxDuu5ZqGhGHfBYu4eyBQa/50x50/1685273848.jpeg?s=8557a03cc09040cfe1bae74d36877492f66273fd",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_022e5_PXdxDuu5ZqGhGHfBYu4eyBQa/20x20/1685273848.jpeg?s=c85ecdc822c94ba8cc5b9e4534c3286a49a86dc9",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_022e5_PXdxDuu5ZqGhGHfBYu4eyBQa",
+            "timestamp": 1685273848,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_022e5_PXdxDuu5ZqGhGHfBYu4eyBQa/1685273848.jpeg?s=cb310ed8f14a22e443a2c831e5e3c768160ff72d",
+          "is_hidden": false,
+          "extra": {}
+        }
+      },
+      "url": "https://www.vinted.fr/hommes/vetements/sweats-and-pulls/pulls-a-capuche-avec-zip/3176176268-felpa-gap-taglia-s",
+      "promoted": false,
+      "photo": {
+        "id": 12774579623,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#5C5A63",
+        "dominant_color_opaque": "#CECED0",
+        "url": "https://images1.vinted.net/t/02_00830_ZKRXkzLdNj4W8PAQ91X4m6G3/f800/1687760663.jpeg?s=2ad79b456fd6fc56ff1d297e840378b65ffcbb80",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_00830_ZKRXkzLdNj4W8PAQ91X4m6G3/70x100/1687760663.jpeg?s=57e2c3c5565304a9f4d25415a1411fa7de2924b9",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_00830_ZKRXkzLdNj4W8PAQ91X4m6G3/150x210/1687760663.jpeg?s=12dae06e6ae8392d0f562ae836bb372034adebf0",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_00830_ZKRXkzLdNj4W8PAQ91X4m6G3/310x430/1687760663.jpeg?s=736e77a26f6e5942414c167b498724d549096a16",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_00830_ZKRXkzLdNj4W8PAQ91X4m6G3/f800/1687760663.jpeg?s=2ad79b456fd6fc56ff1d297e840378b65ffcbb80",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_00830_ZKRXkzLdNj4W8PAQ91X4m6G3/f800/1687760663.jpeg?s=2ad79b456fd6fc56ff1d297e840378b65ffcbb80",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_00830_ZKRXkzLdNj4W8PAQ91X4m6G3/f800/1687760663.jpeg?s=2ad79b456fd6fc56ff1d297e840378b65ffcbb80",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_00830_ZKRXkzLdNj4W8PAQ91X4m6G3",
+          "timestamp": 1687760663,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_00830_ZKRXkzLdNj4W8PAQ91X4m6G3/1687760663.jpeg?s=5dd4bfab41e635f5b05fabfcfb848d2a535a3ffb",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 0,
+      "is_favourite": false,
+      "favourite_group_id": null,
+      "badge": null,
+      "conversion": null,
+      "service_fee": "1.1",
+      "total_item_price": "9.1",
+      "view_count": 0,
+      "size_title": "S",
+      "content_source": "catalog",
+      "search_tracking_params": { "score": 0, "matched_queries": null }
+    },
+    {
+      "id": 3175655920,
+      "title": "Pull GAL vert ",
+      "price": "22.0",
+      "is_visible": 1,
+      "discount": null,
+      "currency": "EUR",
+      "brand_title": "GAP",
+      "is_for_swap": false,
+      "user": {
+        "id": 80979731,
+        "login": "bruno-333",
+        "business": false,
+        "profile_url": "https://www.vinted.fr/member/80979731-bruno-333",
+        "photo": {
+          "id": 80508590,
+          "width": 369,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_0013f_ui81xqaaEp4rTsgZpQTxohmT/f800/1644229546.jpeg?s=4d6cf6db861d5a3427b09fc2d0a48ba2cc2d70e4",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_0013f_ui81xqaaEp4rTsgZpQTxohmT/310x310/1644229546.jpeg?s=672464c08f9135b9296f4c303308b805c0eccb6c",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_0013f_ui81xqaaEp4rTsgZpQTxohmT/150x150/1644229546.jpeg?s=d5dc6cd64c0e23587653f897e1ad217f49436ee5",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_0013f_ui81xqaaEp4rTsgZpQTxohmT/100x100/1644229546.jpeg?s=863d7718b4abaa239f95df6f8db9435b56189847",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_0013f_ui81xqaaEp4rTsgZpQTxohmT/50x50/1644229546.jpeg?s=1faa2a5aafcf57acb930fc8807689518c647746d",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_0013f_ui81xqaaEp4rTsgZpQTxohmT/20x20/1644229546.jpeg?s=410e970f9002d7770980dbe4896d616453b3ece0",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_0013f_ui81xqaaEp4rTsgZpQTxohmT",
+            "timestamp": 1644229546,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_0013f_ui81xqaaEp4rTsgZpQTxohmT/1644229546.jpeg?s=991fef88600dcaf3ee6f8d19a6df3ab578c6e9f8",
+          "is_hidden": false,
+          "extra": {}
+        }
+      },
+      "url": "https://www.vinted.fr/hommes/vetements/sweats-and-pulls/pulls-a-capuche-avec-zip/3175655920-pull-gal-vert",
+      "promoted": false,
+      "photo": {
+        "id": 12772310543,
+        "image_no": 1,
+        "width": 556,
+        "height": 800,
+        "dominant_color": "#3D4C3E",
+        "dominant_color_opaque": "#C5C9C5",
+        "url": "https://images1.vinted.net/t/01_00e6c_L8d9MY9MBXSxHmqEtNpB7sfs/f800/1687722142.jpeg?s=759c4658db04647eff0da1b76cfd312943cca3e8",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/01_00e6c_L8d9MY9MBXSxHmqEtNpB7sfs/70x100/1687722142.jpeg?s=15071a88b4e67d78265d0dd270479c796509d4fa",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/01_00e6c_L8d9MY9MBXSxHmqEtNpB7sfs/150x210/1687722142.jpeg?s=dc477afd9aee268aeeff068f1bcf1ffda3e58d81",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/01_00e6c_L8d9MY9MBXSxHmqEtNpB7sfs/310x430/1687722142.jpeg?s=dac29336889cce130590941f543ae67c3d70d381",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/01_00e6c_L8d9MY9MBXSxHmqEtNpB7sfs/f800/1687722142.jpeg?s=759c4658db04647eff0da1b76cfd312943cca3e8",
+            "width": 297,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/01_00e6c_L8d9MY9MBXSxHmqEtNpB7sfs/f800/1687722142.jpeg?s=759c4658db04647eff0da1b76cfd312943cca3e8",
+            "width": 434,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/01_00e6c_L8d9MY9MBXSxHmqEtNpB7sfs/f800/1687722142.jpeg?s=759c4658db04647eff0da1b76cfd312943cca3e8",
+            "width": 253,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "01_00e6c_L8d9MY9MBXSxHmqEtNpB7sfs",
+          "timestamp": 1687722142,
+          "orientation": 0
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/01_00e6c_L8d9MY9MBXSxHmqEtNpB7sfs/1687722142.jpeg?s=372bba8cdfe5b33adbdcfc2a0d8403d049ac87c2",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 2,
+      "is_favourite": false,
+      "favourite_group_id": null,
+      "badge": null,
+      "conversion": null,
+      "service_fee": "1.8",
+      "total_item_price": "23.8",
+      "view_count": 0,
+      "size_title": "M",
+      "content_source": "catalog",
+      "search_tracking_params": { "score": 0, "matched_queries": null }
+    },
+    {
+      "id": 3175571507,
+      "title": "sudadera gap borrego rosa palo",
+      "price": "15.0",
+      "is_visible": 1,
+      "discount": null,
+      "currency": "EUR",
+      "brand_title": "GAP",
+      "is_for_swap": false,
+      "user": {
+        "id": 104251064,
+        "login": "mariarribascastel",
+        "business": false,
+        "profile_url": "https://www.vinted.fr/member/104251064-mariarribascastel",
+        "photo": {
+          "id": 131630965,
+          "width": 370,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_00bd3_vSmANWbM1yAnkFWzNatiCvqq/f800/1678047646.jpeg?s=34ef907d95ba2c1ead86408a38513c18260945e7",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_00bd3_vSmANWbM1yAnkFWzNatiCvqq/310x310/1678047646.jpeg?s=29de4e431a75383ae7f6d6be01de1b045c66e556",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_00bd3_vSmANWbM1yAnkFWzNatiCvqq/150x150/1678047646.jpeg?s=cb259de6fd7d3438647ddcc269b092dfec5720ac",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_00bd3_vSmANWbM1yAnkFWzNatiCvqq/100x100/1678047646.jpeg?s=f582836fc67b1413b459922373dc698a9ec33895",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_00bd3_vSmANWbM1yAnkFWzNatiCvqq/50x50/1678047646.jpeg?s=7ecad3581333900873817c4530e863ada30ea452",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_00bd3_vSmANWbM1yAnkFWzNatiCvqq/20x20/1678047646.jpeg?s=7a04aba3011280aa1d7568430a1c766943600991",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_00bd3_vSmANWbM1yAnkFWzNatiCvqq",
+            "timestamp": 1678047646,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_00bd3_vSmANWbM1yAnkFWzNatiCvqq/1678047646.jpeg?s=fd818ba1d6e850c1909c45d5bfeab8030dca6308",
+          "is_hidden": false,
+          "extra": {}
+        }
+      },
+      "url": "https://www.vinted.fr/hommes/vetements/sweats-and-pulls/pulls-a-capuche-avec-zip/3175571507-sudadera-gap-borrego-rosa-palo",
+      "promoted": false,
+      "photo": {
+        "id": 12771938088,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#6E625A",
+        "dominant_color_opaque": "#D4D0CE",
+        "url": "https://images1.vinted.net/t/03_01e7e_bVUCMHva7EcC5mc5bsW4wi2f/f800/1687720844.jpeg?s=28e4569d6169f81c1669d22d690875f508e748cd",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_01e7e_bVUCMHva7EcC5mc5bsW4wi2f/70x100/1687720844.jpeg?s=b9ba5d862afd642911ecc44763b32c17189cc8e9",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_01e7e_bVUCMHva7EcC5mc5bsW4wi2f/150x210/1687720844.jpeg?s=96d32990db87b818bb53862b58590e94d54510e5",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_01e7e_bVUCMHva7EcC5mc5bsW4wi2f/310x430/1687720844.jpeg?s=d1d07e04afd2090b1899931ff5b33789accc83ab",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_01e7e_bVUCMHva7EcC5mc5bsW4wi2f/f800/1687720844.jpeg?s=28e4569d6169f81c1669d22d690875f508e748cd",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_01e7e_bVUCMHva7EcC5mc5bsW4wi2f/f800/1687720844.jpeg?s=28e4569d6169f81c1669d22d690875f508e748cd",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_01e7e_bVUCMHva7EcC5mc5bsW4wi2f/f800/1687720844.jpeg?s=28e4569d6169f81c1669d22d690875f508e748cd",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_01e7e_bVUCMHva7EcC5mc5bsW4wi2f",
+          "timestamp": 1687720844,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_01e7e_bVUCMHva7EcC5mc5bsW4wi2f/1687720844.jpeg?s=44db2524931e3154f8076907417052c72df0093d",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 0,
+      "is_favourite": false,
+      "favourite_group_id": null,
+      "badge": null,
+      "conversion": null,
+      "service_fee": "1.45",
+      "total_item_price": "16.45",
+      "view_count": 0,
+      "size_title": "M",
+      "content_source": "catalog",
+      "search_tracking_params": { "score": 0, "matched_queries": null }
+    },
+    {
+      "id": 3175543588,
+      "title": "Donkerblauwe GAP hooded zip",
+      "price": "10.0",
+      "is_visible": 1,
+      "discount": null,
+      "currency": "EUR",
+      "brand_title": "GAP",
+      "is_for_swap": false,
+      "user": {
+        "id": 150393011,
+        "login": "steinko",
+        "business": false,
+        "profile_url": "https://www.vinted.fr/member/150393011-steinko",
+        "photo": null
+      },
+      "url": "https://www.vinted.fr/hommes/vetements/sweats-and-pulls/pulls-a-capuche-avec-zip/3175543588-donkerblauwe-gap-hooded-zip",
+      "promoted": false,
+      "photo": {
+        "id": 12771809205,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#323B44",
+        "dominant_color_opaque": "#C2C4C7",
+        "url": "https://images1.vinted.net/t/03_0048b_7Ci6LVZc7ci7E9h1v5DpuHGh/f800/1687720441.jpeg?s=0c56eb3f96f7b994137973c187500339ced5981b",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_0048b_7Ci6LVZc7ci7E9h1v5DpuHGh/70x100/1687720441.jpeg?s=796474f3c20a430df9708f2436111de490bdf4af",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_0048b_7Ci6LVZc7ci7E9h1v5DpuHGh/150x210/1687720441.jpeg?s=f4a41c157950b2dc817a433dc1e5fc9b38bb51eb",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_0048b_7Ci6LVZc7ci7E9h1v5DpuHGh/310x430/1687720441.jpeg?s=bf696ec4026c03cbdfe5bb4305aa1b0c34097d7d",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_0048b_7Ci6LVZc7ci7E9h1v5DpuHGh/f800/1687720441.jpeg?s=0c56eb3f96f7b994137973c187500339ced5981b",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_0048b_7Ci6LVZc7ci7E9h1v5DpuHGh/f800/1687720441.jpeg?s=0c56eb3f96f7b994137973c187500339ced5981b",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_0048b_7Ci6LVZc7ci7E9h1v5DpuHGh/f800/1687720441.jpeg?s=0c56eb3f96f7b994137973c187500339ced5981b",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_0048b_7Ci6LVZc7ci7E9h1v5DpuHGh",
+          "timestamp": 1687720441,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_0048b_7Ci6LVZc7ci7E9h1v5DpuHGh/1687720441.jpeg?s=2869f0536db975a83e711b01753b50deda06d042",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 0,
+      "is_favourite": false,
+      "favourite_group_id": null,
+      "badge": null,
+      "conversion": null,
+      "service_fee": "1.2",
+      "total_item_price": "11.2",
+      "view_count": 0,
+      "size_title": "S",
+      "content_source": "catalog",
+      "search_tracking_params": { "score": 0, "matched_queries": null }
+    },
+    {
+      "id": 3175531134,
+      "title": "Rode GAP hooded zip",
+      "price": "10.0",
+      "is_visible": 1,
+      "discount": null,
+      "currency": "EUR",
+      "brand_title": "GAP",
+      "is_for_swap": false,
+      "user": {
+        "id": 150393011,
+        "login": "steinko",
+        "business": false,
+        "profile_url": "https://www.vinted.fr/member/150393011-steinko",
+        "photo": null
+      },
+      "url": "https://www.vinted.fr/hommes/vetements/sweats-and-pulls/pulls-a-capuche-avec-zip/3175531134-rode-gap-hooded-zip",
+      "promoted": false,
+      "photo": {
+        "id": 12771754585,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#A63036",
+        "dominant_color_opaque": "#E4C1C3",
+        "url": "https://images1.vinted.net/t/02_01a17_soCrEYYspumf5yrtahKhix3D/f800/1687720259.jpeg?s=2cf4084a9696fd909106798a2ea975906553c2fe",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_01a17_soCrEYYspumf5yrtahKhix3D/70x100/1687720259.jpeg?s=34b8a427a4ec02fb67c12de8ff7c523801b3d428",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_01a17_soCrEYYspumf5yrtahKhix3D/150x210/1687720259.jpeg?s=f15dfc54d9fce5731330c66517b55306634accfc",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_01a17_soCrEYYspumf5yrtahKhix3D/310x430/1687720259.jpeg?s=7c8765a50d69aef331eee38bd22485e149848e7e",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_01a17_soCrEYYspumf5yrtahKhix3D/f800/1687720259.jpeg?s=2cf4084a9696fd909106798a2ea975906553c2fe",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_01a17_soCrEYYspumf5yrtahKhix3D/f800/1687720259.jpeg?s=2cf4084a9696fd909106798a2ea975906553c2fe",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_01a17_soCrEYYspumf5yrtahKhix3D/f800/1687720259.jpeg?s=2cf4084a9696fd909106798a2ea975906553c2fe",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_01a17_soCrEYYspumf5yrtahKhix3D",
+          "timestamp": 1687720259,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_01a17_soCrEYYspumf5yrtahKhix3D/1687720259.jpeg?s=c42fc51a385a647740fe20e78d5e215dacaf0acd",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 1,
+      "is_favourite": false,
+      "favourite_group_id": null,
+      "badge": null,
+      "conversion": null,
+      "service_fee": "1.2",
+      "total_item_price": "11.2",
+      "view_count": 0,
+      "size_title": "S",
+      "content_source": "catalog",
+      "search_tracking_params": { "score": 0, "matched_queries": null }
+    },
+    {
+      "id": 3175518297,
+      "title": "Faded red GAP hooded zip",
+      "price": "7.5",
+      "is_visible": 1,
+      "discount": null,
+      "currency": "EUR",
+      "brand_title": "GAP",
+      "is_for_swap": false,
+      "user": {
+        "id": 150393011,
+        "login": "steinko",
+        "business": false,
+        "profile_url": "https://www.vinted.fr/member/150393011-steinko",
+        "photo": null
+      },
+      "url": "https://www.vinted.fr/hommes/vetements/sweats-and-pulls/pulls-a-capuche-avec-zip/3175518297-faded-red-gap-hooded-zip",
+      "promoted": false,
+      "photo": {
+        "id": 12771684724,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#BA5A58",
+        "dominant_color_opaque": "#EACECD",
+        "url": "https://images1.vinted.net/t/01_01153_Cg4Y3WpXfrPavkKaD1Y8cMcZ/f800/1687720072.jpeg?s=063c95f4f1894c7555d00c103a40eac4e0992e16",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/01_01153_Cg4Y3WpXfrPavkKaD1Y8cMcZ/70x100/1687720072.jpeg?s=25c9cec95c39183780b2264b886105156fe95d54",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/01_01153_Cg4Y3WpXfrPavkKaD1Y8cMcZ/150x210/1687720072.jpeg?s=8825d9c7855df9189951d9c69c1f163c5eb7f927",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/01_01153_Cg4Y3WpXfrPavkKaD1Y8cMcZ/310x430/1687720072.jpeg?s=74ae7b3f75140f5a0a857cd0a357f73b0c366390",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/01_01153_Cg4Y3WpXfrPavkKaD1Y8cMcZ/f800/1687720072.jpeg?s=063c95f4f1894c7555d00c103a40eac4e0992e16",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/01_01153_Cg4Y3WpXfrPavkKaD1Y8cMcZ/f800/1687720072.jpeg?s=063c95f4f1894c7555d00c103a40eac4e0992e16",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/01_01153_Cg4Y3WpXfrPavkKaD1Y8cMcZ/f800/1687720072.jpeg?s=063c95f4f1894c7555d00c103a40eac4e0992e16",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "01_01153_Cg4Y3WpXfrPavkKaD1Y8cMcZ",
+          "timestamp": 1687720072,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/01_01153_Cg4Y3WpXfrPavkKaD1Y8cMcZ/1687720072.jpeg?s=7bfc692f9082b0217804c00fdd65f94f10d72646",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 0,
+      "is_favourite": false,
+      "favourite_group_id": null,
+      "badge": null,
+      "conversion": null,
+      "service_fee": "1.08",
+      "total_item_price": "8.58",
+      "view_count": 0,
+      "size_title": "S",
+      "content_source": "catalog",
+      "search_tracking_params": { "score": 0, "matched_queries": null }
+    },
+    {
+      "id": 3175461797,
+      "title": "Pull À Capuche Zip Hoodie Sweat rétro vintage Grey taille M by Gap",
+      "price": "29.0",
+      "is_visible": 1,
+      "discount": null,
+      "currency": "EUR",
+      "brand_title": "GAP",
+      "is_for_swap": false,
+      "user": {
+        "id": 69376998,
+        "login": "flosfb",
+        "business": false,
+        "profile_url": "https://www.vinted.fr/member/69376998-flosfb",
+        "photo": {
+          "id": 143629313,
+          "width": 637,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_00290_34c52HtvtYMpVfiXUQwbWR7R/f800/1685642811.jpeg?s=f1caede1eb90085a4bc181332e504b90b0b8254e",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_00290_34c52HtvtYMpVfiXUQwbWR7R/310x310/1685642811.jpeg?s=ce2a100ff2872362b824a1a487a2f7720280f753",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_00290_34c52HtvtYMpVfiXUQwbWR7R/150x150/1685642811.jpeg?s=091b9ab695e12600a3b5118690a9759cacf3d42a",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_00290_34c52HtvtYMpVfiXUQwbWR7R/100x100/1685642811.jpeg?s=2a521210b7445aff3d19ebb00f6497cb1a59e59b",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_00290_34c52HtvtYMpVfiXUQwbWR7R/50x50/1685642811.jpeg?s=912feb219ffe3222cd2e2bb46365bd936bc4e76b",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_00290_34c52HtvtYMpVfiXUQwbWR7R/20x20/1685642811.jpeg?s=cd935f565125c466b4cc996bc00b3410de579dd8",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_00290_34c52HtvtYMpVfiXUQwbWR7R",
+            "timestamp": 1685642811,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_00290_34c52HtvtYMpVfiXUQwbWR7R/1685642811.jpeg?s=d297902b4fbfff4ca83e5994761df093e8f6d2b8",
+          "is_hidden": false,
+          "extra": {}
+        }
+      },
+      "url": "https://www.vinted.fr/hommes/vetements/sweats-and-pulls/pulls-a-capuche-avec-zip/3175461797-pull-a-capuche-zip-hoodie-sweat-retro-vintage-grey-taille-m-by-gap",
+      "promoted": false,
+      "photo": {
+        "id": 12771490312,
+        "image_no": 1,
+        "width": 725,
+        "height": 800,
+        "dominant_color": "#A1A1A2",
+        "dominant_color_opaque": "#E3E3E3",
+        "url": "https://images1.vinted.net/t/02_02481_rZdtWCYde8AFE53AkuKBb139/f800/1687719255.jpeg?s=ede408bdf3befea7e37cc822f592fe1365b9419b",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_02481_rZdtWCYde8AFE53AkuKBb139/70x100/1687719255.jpeg?s=4724ed9fc95a4e6dcb976d3efcfaaac61307ba9c",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_02481_rZdtWCYde8AFE53AkuKBb139/150x210/1687719255.jpeg?s=f3e7b6bc2312e35f56bb243e8e3fdc42b43d2b18",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_02481_rZdtWCYde8AFE53AkuKBb139/310x430/1687719255.jpeg?s=2cda208db54ce11558559750079958bacb62f95f",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_02481_rZdtWCYde8AFE53AkuKBb139/f800/1687719255.jpeg?s=ede408bdf3befea7e37cc822f592fe1365b9419b",
+            "width": 387,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_02481_rZdtWCYde8AFE53AkuKBb139/f800/1687719255.jpeg?s=ede408bdf3befea7e37cc822f592fe1365b9419b",
+            "width": 565,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_02481_rZdtWCYde8AFE53AkuKBb139/f800/1687719255.jpeg?s=ede408bdf3befea7e37cc822f592fe1365b9419b",
+            "width": 329,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_02481_rZdtWCYde8AFE53AkuKBb139",
+          "timestamp": 1687719255,
+          "orientation": 0
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_02481_rZdtWCYde8AFE53AkuKBb139/1687719255.jpeg?s=6f534c4314ae7f05a12d9ca6c169d9e1541b0370",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 2,
+      "is_favourite": false,
+      "favourite_group_id": null,
+      "badge": null,
+      "conversion": null,
+      "service_fee": "2.15",
+      "total_item_price": "31.15",
+      "view_count": 0,
+      "size_title": "M",
+      "content_source": "catalog",
+      "search_tracking_params": {
+        "score": 0,
+        "matched_queries": ["boost_on_promoted_closet_marker"]
+      }
+    },
+    {
+      "id": 3175456002,
+      "title": "Grijze GAP hooded zip",
+      "price": "7.5",
+      "is_visible": 1,
+      "discount": null,
+      "currency": "EUR",
+      "brand_title": "GAP",
+      "is_for_swap": false,
+      "user": {
+        "id": 150393011,
+        "login": "steinko",
+        "business": false,
+        "profile_url": "https://www.vinted.fr/member/150393011-steinko",
+        "photo": null
+      },
+      "url": "https://www.vinted.fr/hommes/vetements/sweats-and-pulls/pulls-a-capuche-avec-zip/3175456002-grijze-gap-hooded-zip",
+      "promoted": false,
+      "photo": {
+        "id": 12771439412,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#7F817E",
+        "dominant_color_opaque": "#D9D9D8",
+        "url": "https://images1.vinted.net/t/03_012a4_djTVrz2wzzAtfn4ycrVdh83E/f800/1687719173.jpeg?s=fb880d9d34122b8d8b7f3abf0cce9ea6ef6e13c1",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_012a4_djTVrz2wzzAtfn4ycrVdh83E/70x100/1687719173.jpeg?s=7b075a97ed661a8abc4b1e2e7bb8de1dc5ba8741",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_012a4_djTVrz2wzzAtfn4ycrVdh83E/150x210/1687719173.jpeg?s=9b3e73ae0d89d16e09985095441145a89da1ea47",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_012a4_djTVrz2wzzAtfn4ycrVdh83E/310x430/1687719173.jpeg?s=c18fbfdbe05d3bf15ac50d6ca0412ebb760a5412",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_012a4_djTVrz2wzzAtfn4ycrVdh83E/f800/1687719173.jpeg?s=fb880d9d34122b8d8b7f3abf0cce9ea6ef6e13c1",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_012a4_djTVrz2wzzAtfn4ycrVdh83E/f800/1687719173.jpeg?s=fb880d9d34122b8d8b7f3abf0cce9ea6ef6e13c1",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_012a4_djTVrz2wzzAtfn4ycrVdh83E/f800/1687719173.jpeg?s=fb880d9d34122b8d8b7f3abf0cce9ea6ef6e13c1",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_012a4_djTVrz2wzzAtfn4ycrVdh83E",
+          "timestamp": 1687719173,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_012a4_djTVrz2wzzAtfn4ycrVdh83E/1687719173.jpeg?s=4b500717acb3dc076190c6daddc4f81e907a2cf4",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 0,
+      "is_favourite": false,
+      "favourite_group_id": null,
+      "badge": null,
+      "conversion": null,
+      "service_fee": "1.08",
+      "total_item_price": "8.58",
+      "view_count": 0,
+      "size_title": "S",
+      "content_source": "catalog",
+      "search_tracking_params": { "score": 0, "matched_queries": null }
+    },
+    {
+      "id": 3175453124,
+      "title": "Sweat felpa capuche zip logo brodé taille XS by Gap ",
+      "price": "21.0",
+      "is_visible": 1,
+      "discount": null,
+      "currency": "EUR",
+      "brand_title": "GAP",
+      "is_for_swap": false,
+      "user": {
+        "id": 69376998,
+        "login": "flosfb",
+        "business": false,
+        "profile_url": "https://www.vinted.fr/member/69376998-flosfb",
+        "photo": {
+          "id": 143629313,
+          "width": 637,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_00290_34c52HtvtYMpVfiXUQwbWR7R/f800/1685642811.jpeg?s=f1caede1eb90085a4bc181332e504b90b0b8254e",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_00290_34c52HtvtYMpVfiXUQwbWR7R/310x310/1685642811.jpeg?s=ce2a100ff2872362b824a1a487a2f7720280f753",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_00290_34c52HtvtYMpVfiXUQwbWR7R/150x150/1685642811.jpeg?s=091b9ab695e12600a3b5118690a9759cacf3d42a",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_00290_34c52HtvtYMpVfiXUQwbWR7R/100x100/1685642811.jpeg?s=2a521210b7445aff3d19ebb00f6497cb1a59e59b",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_00290_34c52HtvtYMpVfiXUQwbWR7R/50x50/1685642811.jpeg?s=912feb219ffe3222cd2e2bb46365bd936bc4e76b",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_00290_34c52HtvtYMpVfiXUQwbWR7R/20x20/1685642811.jpeg?s=cd935f565125c466b4cc996bc00b3410de579dd8",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_00290_34c52HtvtYMpVfiXUQwbWR7R",
+            "timestamp": 1685642811,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_00290_34c52HtvtYMpVfiXUQwbWR7R/1685642811.jpeg?s=d297902b4fbfff4ca83e5994761df093e8f6d2b8",
+          "is_hidden": false,
+          "extra": {}
+        }
+      },
+      "url": "https://www.vinted.fr/hommes/vetements/sweats-and-pulls/pulls-a-capuche-avec-zip/3175453124-sweat-felpa-capuche-zip-logo-brode-taille-xs-by-gap",
+      "promoted": false,
+      "photo": {
+        "id": 12771453473,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#585172",
+        "dominant_color_opaque": "#CDCBD5",
+        "url": "https://images1.vinted.net/t/02_016e7_VVai66sDJpay9LQjX7LTDegv/f800/1687719131.jpeg?s=d5e0a2926200035d044e793defdfd0dcfad8ec68",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_016e7_VVai66sDJpay9LQjX7LTDegv/70x100/1687719131.jpeg?s=310531fb4f12ed186b7bc2ce2fddc02171d08ae3",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_016e7_VVai66sDJpay9LQjX7LTDegv/150x210/1687719131.jpeg?s=03bda465763ab2c9a967b1506a9c410bb1aae2fb",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_016e7_VVai66sDJpay9LQjX7LTDegv/310x430/1687719131.jpeg?s=4d67df8b9d3e362ee667cdc18c42a86b755a8d06",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_016e7_VVai66sDJpay9LQjX7LTDegv/f800/1687719131.jpeg?s=d5e0a2926200035d044e793defdfd0dcfad8ec68",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_016e7_VVai66sDJpay9LQjX7LTDegv/f800/1687719131.jpeg?s=d5e0a2926200035d044e793defdfd0dcfad8ec68",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_016e7_VVai66sDJpay9LQjX7LTDegv/f800/1687719131.jpeg?s=d5e0a2926200035d044e793defdfd0dcfad8ec68",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_016e7_VVai66sDJpay9LQjX7LTDegv",
+          "timestamp": 1687719131,
+          "orientation": 0
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_016e7_VVai66sDJpay9LQjX7LTDegv/1687719131.jpeg?s=ce5522aef06d83bdb25f7c242662eddf6efc988a",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 0,
+      "is_favourite": false,
+      "favourite_group_id": null,
+      "badge": null,
+      "conversion": null,
+      "service_fee": "1.75",
+      "total_item_price": "22.75",
+      "view_count": 0,
+      "size_title": "XS",
+      "content_source": "catalog",
+      "search_tracking_params": {
+        "score": 0,
+        "matched_queries": ["boost_on_promoted_closet_marker"]
+      }
+    },
+    {
+      "id": 3175451937,
+      "title": "Sweat felpa zip capuche logo brodé taille XS by Gap ",
+      "price": "21.0",
+      "is_visible": 1,
+      "discount": null,
+      "currency": "EUR",
+      "brand_title": "GAP",
+      "is_for_swap": false,
+      "user": {
+        "id": 69376998,
+        "login": "flosfb",
+        "business": false,
+        "profile_url": "https://www.vinted.fr/member/69376998-flosfb",
+        "photo": {
+          "id": 143629313,
+          "width": 637,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_00290_34c52HtvtYMpVfiXUQwbWR7R/f800/1685642811.jpeg?s=f1caede1eb90085a4bc181332e504b90b0b8254e",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_00290_34c52HtvtYMpVfiXUQwbWR7R/310x310/1685642811.jpeg?s=ce2a100ff2872362b824a1a487a2f7720280f753",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_00290_34c52HtvtYMpVfiXUQwbWR7R/150x150/1685642811.jpeg?s=091b9ab695e12600a3b5118690a9759cacf3d42a",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_00290_34c52HtvtYMpVfiXUQwbWR7R/100x100/1685642811.jpeg?s=2a521210b7445aff3d19ebb00f6497cb1a59e59b",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_00290_34c52HtvtYMpVfiXUQwbWR7R/50x50/1685642811.jpeg?s=912feb219ffe3222cd2e2bb46365bd936bc4e76b",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_00290_34c52HtvtYMpVfiXUQwbWR7R/20x20/1685642811.jpeg?s=cd935f565125c466b4cc996bc00b3410de579dd8",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_00290_34c52HtvtYMpVfiXUQwbWR7R",
+            "timestamp": 1685642811,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_00290_34c52HtvtYMpVfiXUQwbWR7R/1685642811.jpeg?s=d297902b4fbfff4ca83e5994761df093e8f6d2b8",
+          "is_hidden": false,
+          "extra": {}
+        }
+      },
+      "url": "https://www.vinted.fr/hommes/vetements/sweats-and-pulls/pulls-a-capuche-avec-zip/3175451937-sweat-felpa-zip-capuche-logo-brode-taille-xs-by-gap",
+      "promoted": false,
+      "photo": {
+        "id": 12771448530,
+        "image_no": 1,
+        "width": 626,
+        "height": 800,
+        "dominant_color": "#2E384B",
+        "dominant_color_opaque": "#C0C3C9",
+        "url": "https://images1.vinted.net/t/03_00187_EdQhoUBrhoQVACrgW8GnRVD2/f800/1687719114.jpeg?s=dd142c2b2b716ed9b4d319370aed93cf971dd990",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_00187_EdQhoUBrhoQVACrgW8GnRVD2/70x100/1687719114.jpeg?s=3c96d56c3de98ec48403f314f6f661422f875ce6",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_00187_EdQhoUBrhoQVACrgW8GnRVD2/150x210/1687719114.jpeg?s=87430cea4fd7f0c7f8a8ccaedbbb995c53d6370d",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_00187_EdQhoUBrhoQVACrgW8GnRVD2/310x430/1687719114.jpeg?s=31d53242d0daf4e12b76786bdc65a143e1354df1",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_00187_EdQhoUBrhoQVACrgW8GnRVD2/f800/1687719114.jpeg?s=dd142c2b2b716ed9b4d319370aed93cf971dd990",
+            "width": 334,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_00187_EdQhoUBrhoQVACrgW8GnRVD2/f800/1687719114.jpeg?s=dd142c2b2b716ed9b4d319370aed93cf971dd990",
+            "width": 488,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_00187_EdQhoUBrhoQVACrgW8GnRVD2/f800/1687719114.jpeg?s=dd142c2b2b716ed9b4d319370aed93cf971dd990",
+            "width": 284,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_00187_EdQhoUBrhoQVACrgW8GnRVD2",
+          "timestamp": 1687719114,
+          "orientation": 0
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_00187_EdQhoUBrhoQVACrgW8GnRVD2/1687719114.jpeg?s=beedbc77c6b03b590f8ec728296597590da665ea",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 0,
+      "is_favourite": false,
+      "favourite_group_id": null,
+      "badge": null,
+      "conversion": null,
+      "service_fee": "1.75",
+      "total_item_price": "22.75",
+      "view_count": 0,
+      "size_title": "XS",
+      "content_source": "catalog",
+      "search_tracking_params": {
+        "score": 0,
+        "matched_queries": ["boost_on_promoted_closet_marker"]
+      }
+    },
+    {
+      "id": 3175448767,
+      "title": "Grijze GAP hooded zip",
+      "price": "5.0",
+      "is_visible": 1,
+      "discount": null,
+      "currency": "EUR",
+      "brand_title": "GAP",
+      "is_for_swap": false,
+      "user": {
+        "id": 150393011,
+        "login": "steinko",
+        "business": false,
+        "profile_url": "https://www.vinted.fr/member/150393011-steinko",
+        "photo": null
+      },
+      "url": "https://www.vinted.fr/men/clothes/jumpers-and-sweaters/zip-through-hoodies/3175448767-grijze-gap-hooded-zip",
+      "promoted": false,
+      "photo": {
+        "id": 12771359246,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#787976",
+        "dominant_color_opaque": "#D7D7D6",
+        "url": "https://images1.vinted.net/t/01_000a9_phELPPwTVgC4e6d4zGXM9Lsb/f800/1687719068.jpeg?s=657057017bce9cfeb495d237ce7495e879e3d9bc",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/01_000a9_phELPPwTVgC4e6d4zGXM9Lsb/70x100/1687719068.jpeg?s=510dceec61f6a19e4f7487250da4074c2174ef4e",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/01_000a9_phELPPwTVgC4e6d4zGXM9Lsb/150x210/1687719068.jpeg?s=c8cee10cd3a7925c6ec964be0edee46ceb230fe9",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/01_000a9_phELPPwTVgC4e6d4zGXM9Lsb/310x430/1687719068.jpeg?s=a7c611a97c9cca3ecc54f78f5de69155cb683a5c",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/01_000a9_phELPPwTVgC4e6d4zGXM9Lsb/f800/1687719068.jpeg?s=657057017bce9cfeb495d237ce7495e879e3d9bc",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/01_000a9_phELPPwTVgC4e6d4zGXM9Lsb/f800/1687719068.jpeg?s=657057017bce9cfeb495d237ce7495e879e3d9bc",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/01_000a9_phELPPwTVgC4e6d4zGXM9Lsb/f800/1687719068.jpeg?s=657057017bce9cfeb495d237ce7495e879e3d9bc",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "01_000a9_phELPPwTVgC4e6d4zGXM9Lsb",
+          "timestamp": 1687719068,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/01_000a9_phELPPwTVgC4e6d4zGXM9Lsb/1687719068.jpeg?s=7b319ce67cc8b889c2f9269904a10cb7b998761c",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 3,
+      "is_favourite": false,
+      "favourite_group_id": null,
+      "badge": null,
+      "conversion": null,
+      "service_fee": "0.95",
+      "total_item_price": "5.95",
+      "view_count": 0,
+      "size_title": "S",
+      "content_source": "catalog",
+      "search_tracking_params": { "score": 0, "matched_queries": null }
+    },
+    {
+      "id": 3175352441,
+      "title": "Veste Zippé Gap L noir",
+      "price": "29.99",
+      "is_visible": 1,
+      "discount": null,
+      "currency": "EUR",
+      "brand_title": "GAP",
+      "is_for_swap": false,
+      "user": {
+        "id": 21567493,
+        "login": "atlantis8",
+        "business": false,
+        "profile_url": "https://www.vinted.fr/member/21567493-atlantis8",
+        "photo": {
+          "id": 14457805,
+          "width": 600,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_01ace_1FMmKzn3t3CbWVj5LqTNk6tz/f800/1605244076.jpeg?s=ca6f5ef0bf4d06fa000ab10eaafbfd20cb6a8e3e",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_01ace_1FMmKzn3t3CbWVj5LqTNk6tz/310x310/1605244076.jpeg?s=3874ea84c4c418ed3c20ad66c1f0c62c818779d2",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_01ace_1FMmKzn3t3CbWVj5LqTNk6tz/150x150/1605244076.jpeg?s=1bb0ab78367e17b26f5f3a352b68d9f972244a62",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_01ace_1FMmKzn3t3CbWVj5LqTNk6tz/100x100/1605244076.jpeg?s=2b6d309ad1802da984c87ed0b3186e05fc6e5696",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_01ace_1FMmKzn3t3CbWVj5LqTNk6tz/50x50/1605244076.jpeg?s=4f8bcc518b7fe3f8c6e4d2ed02c7cc9efa1d0581",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_01ace_1FMmKzn3t3CbWVj5LqTNk6tz/20x20/1605244076.jpeg?s=df4e063ecb5e4512580ce0805b156e4e7424ffb8",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_01ace_1FMmKzn3t3CbWVj5LqTNk6tz",
+            "timestamp": 1605244076,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_01ace_1FMmKzn3t3CbWVj5LqTNk6tz/1605244076.jpeg?s=53e3a632d9f5f7605af78a50e6fb04ac40712d45",
+          "is_hidden": false,
+          "extra": {}
+        }
+      },
+      "url": "https://www.vinted.fr/hommes/vetements/sweats-and-pulls/pulls-a-capuche-avec-zip/3175352441-veste-zippe-gap-l-noir",
+      "promoted": false,
+      "photo": {
+        "id": 12771003908,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#3A3B3B",
+        "dominant_color_opaque": "#C4C4C4",
+        "url": "https://images1.vinted.net/t/03_021a7_Cbh6MP8eJbEXvwXPFhkg2Foj/f800/1687717704.jpeg?s=81e9607e04c0366cfe2017e2d92a638f98797e9a",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_021a7_Cbh6MP8eJbEXvwXPFhkg2Foj/70x100/1687717704.jpeg?s=c3c4eb9d38125730589df8e8369908ba98f01ef0",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_021a7_Cbh6MP8eJbEXvwXPFhkg2Foj/150x210/1687717704.jpeg?s=cd772b7dcb1c0e49f701b3d0bd9ca881cd9d5243",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_021a7_Cbh6MP8eJbEXvwXPFhkg2Foj/310x430/1687717704.jpeg?s=5f33e2abd48df3b177c92b56690e134c66181cdb",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_021a7_Cbh6MP8eJbEXvwXPFhkg2Foj/f800/1687717704.jpeg?s=81e9607e04c0366cfe2017e2d92a638f98797e9a",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_021a7_Cbh6MP8eJbEXvwXPFhkg2Foj/f800/1687717704.jpeg?s=81e9607e04c0366cfe2017e2d92a638f98797e9a",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_021a7_Cbh6MP8eJbEXvwXPFhkg2Foj/f800/1687717704.jpeg?s=81e9607e04c0366cfe2017e2d92a638f98797e9a",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_021a7_Cbh6MP8eJbEXvwXPFhkg2Foj",
+          "timestamp": 1687717704,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_021a7_Cbh6MP8eJbEXvwXPFhkg2Foj/1687717704.jpeg?s=9acc71c89ea168a26222c55b0658baa08459f322",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 3,
+      "is_favourite": false,
+      "favourite_group_id": null,
+      "badge": null,
+      "conversion": null,
+      "service_fee": "2.2",
+      "total_item_price": "32.19",
+      "view_count": 0,
+      "size_title": "L",
+      "content_source": "catalog",
+      "search_tracking_params": { "score": 0, "matched_queries": null }
+    },
+    {
+      "id": 3173832105,
+      "title": "Felpa rossa ",
+      "price": "8.0",
+      "is_visible": 1,
+      "discount": null,
+      "currency": "EUR",
+      "brand_title": "GAP",
+      "is_for_swap": false,
+      "user": {
+        "id": 150271924,
+        "login": "lucaxx23",
+        "business": false,
+        "profile_url": "https://www.vinted.fr/member/150271924-lucaxx23",
+        "photo": null
+      },
+      "url": "https://www.vinted.fr/homem/roupa/camisolas-e-sweaters/hoodies-com-fecho/3173832105-felpa-rossa",
+      "promoted": false,
+      "photo": {
+        "id": 12764490444,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#BB2842",
+        "dominant_color_opaque": "#EBBFC6",
+        "url": "https://images1.vinted.net/t/01_00f81_z4QXcERtgWBYrxdfTkdMCF2U/f800/1687698669.jpeg?s=df2f542c3d2519040580e7f633468992241da5f5",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/01_00f81_z4QXcERtgWBYrxdfTkdMCF2U/70x100/1687698669.jpeg?s=6fb581f642957fc7d48c287858b51afa94419410",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/01_00f81_z4QXcERtgWBYrxdfTkdMCF2U/150x210/1687698669.jpeg?s=a2616007b9293af763a7e06853eb934b2c64cf30",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/01_00f81_z4QXcERtgWBYrxdfTkdMCF2U/310x430/1687698669.jpeg?s=d323ab345b437a528740ecc741be7a65b915af6d",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/01_00f81_z4QXcERtgWBYrxdfTkdMCF2U/f800/1687698669.jpeg?s=df2f542c3d2519040580e7f633468992241da5f5",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/01_00f81_z4QXcERtgWBYrxdfTkdMCF2U/f800/1687698669.jpeg?s=df2f542c3d2519040580e7f633468992241da5f5",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/01_00f81_z4QXcERtgWBYrxdfTkdMCF2U/f800/1687698669.jpeg?s=df2f542c3d2519040580e7f633468992241da5f5",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "01_00f81_z4QXcERtgWBYrxdfTkdMCF2U",
+          "timestamp": 1687698669,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/01_00f81_z4QXcERtgWBYrxdfTkdMCF2U/1687698669.jpeg?s=6e764140770a48c301ab80744a6b64460e25102b",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 0,
+      "is_favourite": false,
+      "favourite_group_id": null,
+      "badge": null,
+      "conversion": null,
+      "service_fee": "1.1",
+      "total_item_price": "9.1",
+      "view_count": 0,
+      "size_title": "XXL",
+      "content_source": "catalog",
+      "search_tracking_params": { "score": 0, "matched_queries": null }
+    },
+    {
+      "id": 3175028494,
+      "title": "Gilet gap ",
+      "price": "10.0",
+      "is_visible": 1,
+      "discount": null,
+      "currency": "EUR",
+      "brand_title": "GAP",
+      "is_for_swap": false,
+      "user": {
+        "id": 85364436,
+        "login": "yanisds25",
+        "business": false,
+        "profile_url": "https://www.vinted.fr/member/85364436-yanisds25",
+        "photo": {
+          "id": 105834750,
+          "width": 800,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_01bf8_DYHS5XnF2zQVVGKMcJaRsUqN/f800/1662835526.jpeg?s=0270f68efa7ce120730058e20f2c47ffa673318a",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_01bf8_DYHS5XnF2zQVVGKMcJaRsUqN/310x310/1662835526.jpeg?s=758737537b1e8145678a2108ed21f5163fd39551",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_01bf8_DYHS5XnF2zQVVGKMcJaRsUqN/150x150/1662835526.jpeg?s=5d0298475a54395a035dee17dceb857e8e35b3d6",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_01bf8_DYHS5XnF2zQVVGKMcJaRsUqN/100x100/1662835526.jpeg?s=7d72d8545c9cf0680df9f9d8c7775fe49a9d3ddd",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_01bf8_DYHS5XnF2zQVVGKMcJaRsUqN/50x50/1662835526.jpeg?s=68c41f8ce2ef0c11fa7438bfd52db343bbe0e839",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_01bf8_DYHS5XnF2zQVVGKMcJaRsUqN/20x20/1662835526.jpeg?s=e4f5a5b5f4789efd33bc30a831040bf861190cd2",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_01bf8_DYHS5XnF2zQVVGKMcJaRsUqN",
+            "timestamp": 1662835526,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_01bf8_DYHS5XnF2zQVVGKMcJaRsUqN/1662835526.jpeg?s=c33cb1e33eb8fa59858f7947ab2201ebe6496acb",
+          "is_hidden": false,
+          "extra": {}
+        }
+      },
+      "url": "https://www.vinted.fr/hommes/vetements/sweats-and-pulls/pulls-a-capuche-avec-zip/3175028494-gilet-gap",
+      "promoted": false,
+      "photo": {
+        "id": 12769639005,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#7C3641",
+        "dominant_color_opaque": "#D8C3C6",
+        "url": "https://images1.vinted.net/t/02_0211a_7TX7PUjnyUKEbSd7KD8A5Z1D/f800/1687713342.jpeg?s=df7f8fb34aaa8d0e217fa1668e47484706275d43",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_0211a_7TX7PUjnyUKEbSd7KD8A5Z1D/70x100/1687713342.jpeg?s=0438cadd9f840014b54cf6b2bff011f916fb2a98",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_0211a_7TX7PUjnyUKEbSd7KD8A5Z1D/150x210/1687713342.jpeg?s=0929ed1274833ede6ecb459dd3cc2295f9828327",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_0211a_7TX7PUjnyUKEbSd7KD8A5Z1D/310x430/1687713342.jpeg?s=e46a59c9c03401ac895f4e7cff1e725ae7c89695",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_0211a_7TX7PUjnyUKEbSd7KD8A5Z1D/f800/1687713342.jpeg?s=df7f8fb34aaa8d0e217fa1668e47484706275d43",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_0211a_7TX7PUjnyUKEbSd7KD8A5Z1D/f800/1687713342.jpeg?s=df7f8fb34aaa8d0e217fa1668e47484706275d43",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_0211a_7TX7PUjnyUKEbSd7KD8A5Z1D/f800/1687713342.jpeg?s=df7f8fb34aaa8d0e217fa1668e47484706275d43",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_0211a_7TX7PUjnyUKEbSd7KD8A5Z1D",
+          "timestamp": 1687713342,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_0211a_7TX7PUjnyUKEbSd7KD8A5Z1D/1687713342.jpeg?s=7778afd02ddd745025868615f538bb2a8f775618",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 0,
+      "is_favourite": false,
+      "favourite_group_id": null,
+      "badge": null,
+      "conversion": null,
+      "service_fee": "1.2",
+      "total_item_price": "11.2",
+      "view_count": 0,
+      "size_title": "M",
+      "content_source": "catalog",
+      "search_tracking_params": { "score": 0, "matched_queries": null }
+    },
+    {
+      "id": 3175015075,
+      "title": "Gilet gap bleu / zip gap bleu ",
+      "price": "35.0",
+      "is_visible": 1,
+      "discount": null,
+      "currency": "EUR",
+      "brand_title": "GAP",
+      "is_for_swap": false,
+      "user": {
+        "id": 28077170,
+        "login": "nolanparis",
+        "business": false,
+        "profile_url": "https://www.vinted.fr/member/28077170-nolanparis",
+        "photo": {
+          "id": 84224578,
+          "width": 369,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_00268_cAWPRsmAMHZ5MYnAyexGrAXs/f800/1647534157.jpeg?s=54b694c9bc2f5c1f6545d8e723877cfda3073784",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_00268_cAWPRsmAMHZ5MYnAyexGrAXs/310x310/1647534157.jpeg?s=47352b9364b7342f218f628006510de3d302a68c",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_00268_cAWPRsmAMHZ5MYnAyexGrAXs/150x150/1647534157.jpeg?s=aa9805eebb810272f239e2ac48b2a2c9182541d9",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_00268_cAWPRsmAMHZ5MYnAyexGrAXs/100x100/1647534157.jpeg?s=5088f6b7e505e9ff6eff0b67ad1eb2a4aa4afecd",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_00268_cAWPRsmAMHZ5MYnAyexGrAXs/50x50/1647534157.jpeg?s=fc4a5a524662a58e13c79bf15bc3424d35585a89",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_00268_cAWPRsmAMHZ5MYnAyexGrAXs/20x20/1647534157.jpeg?s=93df073db0145a97fcf1ee694d8262989f9deac7",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_00268_cAWPRsmAMHZ5MYnAyexGrAXs",
+            "timestamp": 1647534157,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_00268_cAWPRsmAMHZ5MYnAyexGrAXs/1647534157.jpeg?s=6404ddae69deb6d90f3359a8446939d92eb44b3e",
+          "is_hidden": false,
+          "extra": {}
+        }
+      },
+      "url": "https://www.vinted.fr/hommes/vetements/sweats-and-pulls/pulls-a-capuche-avec-zip/3175015075-gilet-gap-bleu-zip-gap-bleu",
+      "promoted": false,
+      "photo": {
+        "id": 12769584045,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#464A4D",
+        "dominant_color_opaque": "#C8C9CA",
+        "url": "https://images1.vinted.net/t/02_0264b_btkCnJ1kxxGffLigmX2zjpPW/f800/1687713176.jpeg?s=5eeba102367e415f568322136ef453db8174c27f",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_0264b_btkCnJ1kxxGffLigmX2zjpPW/70x100/1687713176.jpeg?s=4acd3ed2b8a26b7f3ec083d142d90cec856bba3b",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_0264b_btkCnJ1kxxGffLigmX2zjpPW/150x210/1687713176.jpeg?s=9219f6cd1afa13b1c08c3053580001111898fc20",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_0264b_btkCnJ1kxxGffLigmX2zjpPW/310x430/1687713176.jpeg?s=b552c85a8e5a3dbf737ef6ad29a18cfd2f7e5807",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_0264b_btkCnJ1kxxGffLigmX2zjpPW/f800/1687713176.jpeg?s=5eeba102367e415f568322136ef453db8174c27f",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_0264b_btkCnJ1kxxGffLigmX2zjpPW/f800/1687713176.jpeg?s=5eeba102367e415f568322136ef453db8174c27f",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_0264b_btkCnJ1kxxGffLigmX2zjpPW/f800/1687713176.jpeg?s=5eeba102367e415f568322136ef453db8174c27f",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_0264b_btkCnJ1kxxGffLigmX2zjpPW",
+          "timestamp": 1687713176,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_0264b_btkCnJ1kxxGffLigmX2zjpPW/1687713176.jpeg?s=b312688d27a9582ee963a613b194669592f7a2e1",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 1,
+      "is_favourite": false,
+      "favourite_group_id": null,
+      "badge": null,
+      "conversion": null,
+      "service_fee": "2.45",
+      "total_item_price": "37.45",
+      "view_count": 0,
+      "size_title": "L",
+      "content_source": "catalog",
+      "search_tracking_params": { "score": 0, "matched_queries": null }
+    },
+    {
+      "id": 3175024233,
+      "title": "Gilet Gap ",
+      "price": "10.0",
+      "is_visible": 1,
+      "discount": null,
+      "currency": "EUR",
+      "brand_title": "GAP",
+      "is_for_swap": false,
+      "user": {
+        "id": 85364436,
+        "login": "yanisds25",
+        "business": false,
+        "profile_url": "https://www.vinted.fr/member/85364436-yanisds25",
+        "photo": {
+          "id": 105834750,
+          "width": 800,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_01bf8_DYHS5XnF2zQVVGKMcJaRsUqN/f800/1662835526.jpeg?s=0270f68efa7ce120730058e20f2c47ffa673318a",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_01bf8_DYHS5XnF2zQVVGKMcJaRsUqN/310x310/1662835526.jpeg?s=758737537b1e8145678a2108ed21f5163fd39551",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_01bf8_DYHS5XnF2zQVVGKMcJaRsUqN/150x150/1662835526.jpeg?s=5d0298475a54395a035dee17dceb857e8e35b3d6",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_01bf8_DYHS5XnF2zQVVGKMcJaRsUqN/100x100/1662835526.jpeg?s=7d72d8545c9cf0680df9f9d8c7775fe49a9d3ddd",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_01bf8_DYHS5XnF2zQVVGKMcJaRsUqN/50x50/1662835526.jpeg?s=68c41f8ce2ef0c11fa7438bfd52db343bbe0e839",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_01bf8_DYHS5XnF2zQVVGKMcJaRsUqN/20x20/1662835526.jpeg?s=e4f5a5b5f4789efd33bc30a831040bf861190cd2",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_01bf8_DYHS5XnF2zQVVGKMcJaRsUqN",
+            "timestamp": 1662835526,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_01bf8_DYHS5XnF2zQVVGKMcJaRsUqN/1662835526.jpeg?s=c33cb1e33eb8fa59858f7947ab2201ebe6496acb",
+          "is_hidden": false,
+          "extra": {}
+        }
+      },
+      "url": "https://www.vinted.fr/hommes/vetements/sweats-and-pulls/pulls-a-capuche-avec-zip/3175024233-gilet-gap",
+      "promoted": false,
+      "photo": {
+        "id": 12769620415,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#72323D",
+        "dominant_color_opaque": "#D5C2C5",
+        "url": "https://images1.vinted.net/t/03_01404_uujzLqfiSLmFJEJRRiaQJK5f/f800/1687713289.jpeg?s=a7fb1deeaf4a983275b27a2b1ae77aa157f6e75a",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_01404_uujzLqfiSLmFJEJRRiaQJK5f/70x100/1687713289.jpeg?s=b6e6cef066f4fb34baa42b6bc1c40bd582370706",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_01404_uujzLqfiSLmFJEJRRiaQJK5f/150x210/1687713289.jpeg?s=790e23d7dd3097b00e1764d29a2b3c87bcbde509",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_01404_uujzLqfiSLmFJEJRRiaQJK5f/310x430/1687713289.jpeg?s=d8d85f766f43d821d2d79110614353226e0cf25f",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_01404_uujzLqfiSLmFJEJRRiaQJK5f/f800/1687713289.jpeg?s=a7fb1deeaf4a983275b27a2b1ae77aa157f6e75a",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_01404_uujzLqfiSLmFJEJRRiaQJK5f/f800/1687713289.jpeg?s=a7fb1deeaf4a983275b27a2b1ae77aa157f6e75a",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_01404_uujzLqfiSLmFJEJRRiaQJK5f/f800/1687713289.jpeg?s=a7fb1deeaf4a983275b27a2b1ae77aa157f6e75a",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_01404_uujzLqfiSLmFJEJRRiaQJK5f",
+          "timestamp": 1687713289,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_01404_uujzLqfiSLmFJEJRRiaQJK5f/1687713289.jpeg?s=23b5a4ae353e8ff9bac8dcf6822f6c63a1796355",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 0,
+      "is_favourite": false,
+      "favourite_group_id": null,
+      "badge": null,
+      "conversion": null,
+      "service_fee": "1.2",
+      "total_item_price": "11.2",
+      "view_count": 0,
+      "size_title": "M",
+      "content_source": "catalog",
+      "search_tracking_params": { "score": 0, "matched_queries": null }
+    },
+    {
+      "id": 3175008561,
+      "title": "Gilet Gap bleu / Zip Gap bleu ",
+      "price": "35.0",
+      "is_visible": 1,
+      "discount": null,
+      "currency": "EUR",
+      "brand_title": "GAP",
+      "is_for_swap": false,
+      "user": {
+        "id": 28077170,
+        "login": "nolanparis",
+        "business": false,
+        "profile_url": "https://www.vinted.fr/member/28077170-nolanparis",
+        "photo": {
+          "id": 84224578,
+          "width": 369,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_00268_cAWPRsmAMHZ5MYnAyexGrAXs/f800/1647534157.jpeg?s=54b694c9bc2f5c1f6545d8e723877cfda3073784",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_00268_cAWPRsmAMHZ5MYnAyexGrAXs/310x310/1647534157.jpeg?s=47352b9364b7342f218f628006510de3d302a68c",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_00268_cAWPRsmAMHZ5MYnAyexGrAXs/150x150/1647534157.jpeg?s=aa9805eebb810272f239e2ac48b2a2c9182541d9",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_00268_cAWPRsmAMHZ5MYnAyexGrAXs/100x100/1647534157.jpeg?s=5088f6b7e505e9ff6eff0b67ad1eb2a4aa4afecd",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_00268_cAWPRsmAMHZ5MYnAyexGrAXs/50x50/1647534157.jpeg?s=fc4a5a524662a58e13c79bf15bc3424d35585a89",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_00268_cAWPRsmAMHZ5MYnAyexGrAXs/20x20/1647534157.jpeg?s=93df073db0145a97fcf1ee694d8262989f9deac7",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_00268_cAWPRsmAMHZ5MYnAyexGrAXs",
+            "timestamp": 1647534157,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_00268_cAWPRsmAMHZ5MYnAyexGrAXs/1647534157.jpeg?s=6404ddae69deb6d90f3359a8446939d92eb44b3e",
+          "is_hidden": false,
+          "extra": {}
+        }
+      },
+      "url": "https://www.vinted.fr/hommes/vetements/sweats-and-pulls/pulls-a-capuche-avec-zip/3175008561-gilet-gap-bleu-zip-gap-bleu",
+      "promoted": false,
+      "photo": {
+        "id": 12769555591,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#3C4653",
+        "dominant_color_opaque": "#C5C8CB",
+        "url": "https://images1.vinted.net/t/03_020c8_C7FRy6p4kK9ByyHngmg5Ja7q/f800/1687713094.jpeg?s=35352d964a52cdb8896c7a8351fee49f04de9f5b",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_020c8_C7FRy6p4kK9ByyHngmg5Ja7q/70x100/1687713094.jpeg?s=67ef4312d0b2597b5905ac70395d8634fa1329ec",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_020c8_C7FRy6p4kK9ByyHngmg5Ja7q/150x210/1687713094.jpeg?s=58f0f518aa2db7f4e969cab92b601788525e5c2b",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_020c8_C7FRy6p4kK9ByyHngmg5Ja7q/310x430/1687713094.jpeg?s=1aebd9b046577b1fbb2c31f6fc7731c239908a25",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_020c8_C7FRy6p4kK9ByyHngmg5Ja7q/f800/1687713094.jpeg?s=35352d964a52cdb8896c7a8351fee49f04de9f5b",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_020c8_C7FRy6p4kK9ByyHngmg5Ja7q/f800/1687713094.jpeg?s=35352d964a52cdb8896c7a8351fee49f04de9f5b",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_020c8_C7FRy6p4kK9ByyHngmg5Ja7q/f800/1687713094.jpeg?s=35352d964a52cdb8896c7a8351fee49f04de9f5b",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_020c8_C7FRy6p4kK9ByyHngmg5Ja7q",
+          "timestamp": 1687713094,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_020c8_C7FRy6p4kK9ByyHngmg5Ja7q/1687713094.jpeg?s=5d7c583861fc8c5db372cef9300ca21627184976",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 1,
+      "is_favourite": false,
+      "favourite_group_id": null,
+      "badge": null,
+      "conversion": null,
+      "service_fee": "2.45",
+      "total_item_price": "37.45",
+      "view_count": 0,
+      "size_title": "M",
+      "content_source": "catalog",
+      "search_tracking_params": { "score": 0, "matched_queries": null }
+    },
+    {
+      "id": 3174470813,
+      "title": "Pull à capuche GAP",
+      "price": "19.0",
+      "is_visible": 1,
+      "discount": null,
+      "currency": "EUR",
+      "brand_title": "GAP",
+      "is_for_swap": false,
+      "user": {
+        "id": 49545361,
+        "login": "clararivo",
+        "business": false,
+        "profile_url": "https://www.vinted.fr/member/49545361-clararivo",
+        "photo": {
+          "id": 50441293,
+          "width": 800,
+          "height": 600,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_00d9a_PqzKcHPJUQsSTuUBoi1eiSyw/f800/1614502273.jpeg?s=d1cd73c7e127fd63fdefd902d5a21a4b98256fc4",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_00d9a_PqzKcHPJUQsSTuUBoi1eiSyw/310x310/1614502273.jpeg?s=83092410527e30025818c1305146198973f8a321",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_00d9a_PqzKcHPJUQsSTuUBoi1eiSyw/150x150/1614502273.jpeg?s=ec1c0986d625d7dcdc32a4a82019887acfd98ce0",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_00d9a_PqzKcHPJUQsSTuUBoi1eiSyw/100x100/1614502273.jpeg?s=48fdcac01f6201a658291c85d5c3daeb2e6716ec",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_00d9a_PqzKcHPJUQsSTuUBoi1eiSyw/50x50/1614502273.jpeg?s=8d2079ea4262f11f9212056e6f4105ece47d0b27",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_00d9a_PqzKcHPJUQsSTuUBoi1eiSyw/20x20/1614502273.jpeg?s=8d92fdf8d2bfd1dac4a8e78ba2721825064b4351",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_00d9a_PqzKcHPJUQsSTuUBoi1eiSyw",
+            "timestamp": 1614502273,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_00d9a_PqzKcHPJUQsSTuUBoi1eiSyw/1614502273.jpeg?s=8f871cd67504b9de95da4d74bb22717f49394c59",
+          "is_hidden": false,
+          "extra": {}
+        }
+      },
+      "url": "https://www.vinted.fr/hommes/vetements/sweats-and-pulls/pulls-a-capuche-avec-zip/3174470813-pull-a-capuche-gap",
+      "promoted": false,
+      "photo": {
+        "id": 12767226527,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#2A2526",
+        "dominant_color_opaque": "#BFBEBE",
+        "url": "https://images1.vinted.net/t/01_022b4_4oH6iVSNaGT28AtpABE1cX7u/f800/1687706548.jpeg?s=6d24424aedbed475e9efa1c67ddd9af740061ab2",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/01_022b4_4oH6iVSNaGT28AtpABE1cX7u/70x100/1687706548.jpeg?s=c29a414822191322e77a7302bd0346a549335d53",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/01_022b4_4oH6iVSNaGT28AtpABE1cX7u/150x210/1687706548.jpeg?s=33c960271f8050773b26f8969943f73ee54aedbe",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/01_022b4_4oH6iVSNaGT28AtpABE1cX7u/310x430/1687706548.jpeg?s=b7adeb9ff75c8c1111a46a65eda4a0bde6a3bf69",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/01_022b4_4oH6iVSNaGT28AtpABE1cX7u/f800/1687706548.jpeg?s=6d24424aedbed475e9efa1c67ddd9af740061ab2",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/01_022b4_4oH6iVSNaGT28AtpABE1cX7u/f800/1687706548.jpeg?s=6d24424aedbed475e9efa1c67ddd9af740061ab2",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/01_022b4_4oH6iVSNaGT28AtpABE1cX7u/f800/1687706548.jpeg?s=6d24424aedbed475e9efa1c67ddd9af740061ab2",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "01_022b4_4oH6iVSNaGT28AtpABE1cX7u",
+          "timestamp": 1687706548,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/01_022b4_4oH6iVSNaGT28AtpABE1cX7u/1687706548.jpeg?s=768362ab172999285824eb6dfcf6459502faddcd",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 10,
+      "is_favourite": false,
+      "favourite_group_id": null,
+      "badge": null,
+      "conversion": null,
+      "service_fee": "1.65",
+      "total_item_price": "20.65",
+      "view_count": 0,
+      "size_title": "M",
+      "content_source": "catalog",
+      "search_tracking_params": { "score": 0, "matched_queries": null }
+    }
+  ],
+  "dominant_brand": {
+    "id": 6,
+    "title": "GAP",
+    "slug": "gap",
+    "favourite_count": 413576,
+    "pretty_favourite_count": "413.6K",
+    "item_count": 1581325,
+    "pretty_item_count": "1.6M",
+    "is_visible_in_listings": true,
+    "path": "/brand/gap",
+    "requires_authenticity_check": false,
+    "is_luxury": false,
+    "url": "https://www.vinted.fr/brand/gap",
+    "is_favourite": false
+  },
+  "search_tracking_params": {
+    "search_correlation_id": "af08bcd5-e083-4c4d-aee1-54b12fba6fb7",
+    "search_session_id": "3abac126-9c9c-4c1f-83f5-5533d9ca4f7b"
+  },
+  "pagination": {
+    "current_page": 1,
+    "total_pages": 107,
+    "total_entries": 2137,
+    "per_page": 20,
+    "time": 1687777815
+  },
+  "code": 0
+}
