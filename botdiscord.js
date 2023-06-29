@@ -28,7 +28,9 @@ client
           // proxy: ["ip", "ip:port", "username:password"]
           // ou
           // proxy: "./proxy.txt"
-          proxy: [`${process.env.PROXY}`],
+          // proxy: [
+          //   `package-10001-country-fr:iWjIWtB5VbO6gZda@rotating.proxyempire.io:5000`,
+          // ],
         });
         moni.on("error", (err) => console.log(err));
         moni.on("item", (item) => {

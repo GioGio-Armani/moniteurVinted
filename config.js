@@ -1,8 +1,8 @@
 module.exports = {
   token: process.env.TOKEN,
   moniteur: {
-    interval: 15000,
-    debug: false,
+    interval: 30000,
+    debug: true,
     urls: [
       // { url: "url vinted", salon: "salon logs" }
       {

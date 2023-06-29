@@ -5,7 +5,8 @@
   "main": "",
   "scripts": {
     "test": "jest",
-    "start": "node botdiscord.js"
+    "start": "node botdiscord.js",
+    "stop": "node stop.js"
   },
   "author": "",
   "license": "ISC",
